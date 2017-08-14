@@ -9,14 +9,10 @@ for i in fibonacciList:
 
 for i in fibonacciList:
 	if(i % 2 == 0):
-		print(i)
 		resultSum += i
 
 print(resultSum)
 
-#for i in [1,2,3,4]:
-#	if(i%2==0):
-#		print(i)
 
 
 
